@@ -1,9 +1,5 @@
 game.resources = [
-    {
-        "name": "dst-inertexponent",
-        "type": "audio",
-        "src": "static/game/data/bgm/"
-    },
+
     {
         "name": "cling",
         "type": "audio",
