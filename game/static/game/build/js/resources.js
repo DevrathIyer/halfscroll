@@ -52,7 +52,7 @@ game.resources = [
     {
         "name": "spinning_coin_gold",
         "type": "image",
-        "src": "static/game/data/img/sprite/spinning_coin_gold.png"
+        "src": "/static/game/data/img/sprite/spinning_coin_gold.png"
     },
     {
         "name": "wheelie_right",
