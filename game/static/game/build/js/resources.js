@@ -2,7 +2,7 @@ game.resources = [
     {
         "name": "dst-inertexponent",
         "type": "audio",
-        "src": "data/bgm/"
+        "src": "static/game/data/bgm/"
     },
     {
         "name": "cling",
@@ -62,6 +62,6 @@ game.resources = [
     {
         "name": "Game_Map",
         "type": "tmx",
-        "src": "data/map/Game_Map.tmx"
+        "src": "static/game/data/map/Game_Map.tmx"
     }
 ];
